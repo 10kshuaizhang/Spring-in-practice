@@ -105,7 +105,7 @@
     </dependencies>
 
     <build>
-        <finalName>spittr</finalName>
+        <finalName>main.java.spittr</finalName>
     </build>
 
 </project>
